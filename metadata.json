@@ -1,0 +1,6 @@
+{
+  "name": "Visual Studio CMS & Site Generator",
+  "description": "CMS visuale e motore di generazione siti modulare in React con template editoriale Gutkowskino e preset multi-categoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
